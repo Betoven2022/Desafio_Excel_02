@@ -26,3 +26,4 @@ Layout pensado para tornar o uso simples, prático e visualmente agradável.
 💡 Proposta
 Criar uma solução centralizada que una organização, controle e praticidade, ideal para usuários que precisam manipular dados de forma confiável sem complexidade técnica.
 
+<img width="916" height="502" alt="Desafio excel 2" src="https://github.com/user-attachments/assets/dfa1b322-f876-430a-bf6f-16e0bc6463cb" />
